@@ -1,0 +1,13 @@
+Rilis LangitKetujuh OS 202310005
+
+Alhamdulillah, akhirnya rilis lagi. Pada versi ini fokus pada pembenahan sesi audio, repositori, wiki serta aplikasi baru untuk edisi Studio. Kernel yang digunakan linux6.5 dan linux6.1 LTS.
+
+Untuk pengguna edisi Studio, silakan mengisi form kirim ulang agar mendapatkan edisi studio yang terbaru (linknya ada di bio). Catatan rilis selengkapnya ada di https://langitketujuh.id/id/ods/roadmap
+
+Ohya, kami membutuhkan feedback bagi yang sudah menggunakan OS ini. Segala masukan kami apresiasi. Jangan lupa gabung juga di komunitas telegram: @langitketujuh_os.
+
+Yang sudah pake nih os, tag #l7os yaa..
+
+Jazaakumullahu khairan.
+
+#l7os #kde #gnome #langitketujuh #desain #desainer #os #linux #inkscape #krita #gimp #synfig #synfigstudio #blender3d #opentoonz #fontforge #godot #scribus #digikam #rawtherapee #kdenlive #audacity #obsstudio
